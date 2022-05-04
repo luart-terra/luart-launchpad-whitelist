@@ -1,0 +1,1402 @@
+[
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1ngh42wneyt30wwhyuwtlagr9j5jxle5fj9gcws",
+    "luaPower": 362797.49994999997,
+    "rewardUst": 2471.017861,
+    "rewardLuart": 5940.594059
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra17zgucln37ks7kmazzm9396txh0extrrj8feyc8",
+    "luaPower": 310061.14992500003,
+    "rewardUst": 2111.829986,
+    "rewardLuart": 5881.188118
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra180yaxe9fq54x84smc5weku2qpcynvmuyq8af7k",
+    "luaPower": 274190.04837062076,
+    "rewardUst": 1867.511509,
+    "rewardLuart": 5821.782178
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra136wrp0wshler262s4l3gqs7na0cdduu2n6dtyu",
+    "luaPower": 261458.14436268344,
+    "rewardUst": 1780.794368,
+    "rewardLuart": 5762.376237
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1jyvm05eg5rk6cdx4ax7tyuklz64s57rdu9qzvu",
+    "luaPower": 252315.71553706613,
+    "rewardUst": 1718.525182,
+    "rewardLuart": 5702.970297
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1zvq2vz4yc6e69dc8ywg060cw07l672gwpnvary",
+    "luaPower": 188773.49948919518,
+    "rewardUst": 1285.738432,
+    "rewardLuart": 5643.564356
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1ckn695w090k7a5h3zcen5f9fpjtkzlwklzwgxe",
+    "luaPower": 181524.6,
+    "rewardUst": 1236.366096,
+    "rewardLuart": 5584.158415
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1kxln7cd8r29taqgtgtgta95nd54asy4kf53z39",
+    "luaPower": 181100.0061379189,
+    "rewardUst": 1233.474182,
+    "rewardLuart": 5524.752475
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1snrx583sy446705xpy52mlzjpk25adquh9ty39",
+    "luaPower": 170272.77416527932,
+    "rewardUst": 1159.729783,
+    "rewardLuart": 5465.346534
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra186p9aqxgk48nz995f3pzrq7xt7ht0y48qzca74",
+    "luaPower": 162996.05,
+    "rewardUst": 1110.167933,
+    "rewardLuart": 5405.940594
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra17skag8gzusyds2hexv5s85vseke0vxe7qecwmg",
+    "luaPower": 152077.50446547027,
+    "rewardUst": 1035.801596,
+    "rewardLuart": 5346.534653
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1hmnmsfwmg7nk8vhmtl39cfkqzy8wfpmhncepgh",
+    "luaPower": 148622.30804243105,
+    "rewardUst": 1012.268215,
+    "rewardLuart": 5287.128712
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1zakne2kmp78fp477vaqxunj0tl27leqglkc2hw",
+    "luaPower": 146464.38220882867,
+    "rewardUst": 997.570557,
+    "rewardLuart": 5227.722772
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1qknuf24zh6y6gmez6k925kmfer5tmnfyf2gws6",
+    "luaPower": 130315.15460209559,
+    "rewardUst": 887.577986,
+    "rewardLuart": 5168.316831
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1wm9ksp3tuwf3vwqzhvlxl7um0l4peggc0v895a",
+    "luaPower": 124474.3,
+    "rewardUst": 847.79586,
+    "rewardLuart": 5108.910891
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1xpmwh39gumkc60t2f976kyzc24s78rlegftmf3",
+    "luaPower": 107606.65,
+    "rewardUst": 732.910105,
+    "rewardLuart": 5049.50495
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1wtp886us4jkxctl6w3kysxc84fpje4uj3yd2aa",
+    "luaPower": 107402.65,
+    "rewardUst": 731.520659,
+    "rewardLuart": 4990.099009
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1qlnsucyc5nw5tjvwxry3l5u5d9myg4hcradsqn",
+    "luaPower": 105148.79464086253,
+    "rewardUst": 716.169625,
+    "rewardLuart": 4930.693069
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1dvl7v9c9f5a7flqrf4l5mgemm9vhwk7tgtnuk5",
+    "luaPower": 97938.47648870562,
+    "rewardUst": 667.060067,
+    "rewardLuart": 4871.287128
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1emf7rt84cuegtx5hd8xztshxculkx3gs80kugj",
+    "luaPower": 81648.94483329353,
+    "rewardUst": 556.111883,
+    "rewardLuart": 4811.881188
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1h957ynru85v9nfasqhflswdwjdsd83lasyu8ty",
+    "luaPower": 80530.67,
+    "rewardUst": 548.4953,
+    "rewardLuart": 4752.475247
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1ggf9ru2kzm0f5vytx8hlnkmdefuh20rc3v00yq",
+    "luaPower": 78129.999925,
+    "rewardUst": 532.14431,
+    "rewardLuart": 4693.069306
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra15pqe7pj8cvtaepxjwu40c8lpcuufzn3ek0uh8k",
+    "luaPower": 77280.25,
+    "rewardUst": 526.356653,
+    "rewardLuart": 4633.663366
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1wtjfazdwh7d6n5k844dxv4gaz8qlk80ep2qqn3",
+    "luaPower": 75524.7,
+    "rewardUst": 514.399582,
+    "rewardLuart": 4574.257425
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra12xskt55gz68ze3mup5x0e6tjxylzs070239mug",
+    "luaPower": 74744.4,
+    "rewardUst": 509.08495,
+    "rewardLuart": 4514.851485
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra18vmrm9chtyqwfhplfz5j7gfuzcalwk42fqew34",
+    "luaPower": 73143.25,
+    "rewardUst": 498.1795,
+    "rewardLuart": 4455.445544
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1vp7gf6evzypcgmg820e20fm9pxe6apslqeyw32",
+    "luaPower": 73019.25,
+    "rewardUst": 497.334934,
+    "rewardLuart": 4396.039603
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1c60dcq57uc3l9t30tpujuwdh9rhxm4jgrjma87",
+    "luaPower": 69319.40293944828,
+    "rewardUst": 472.135234,
+    "rewardLuart": 4336.633663
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1c5ppmyr8fdspylexuhvlg4tnyt9wxzuu97sg5a",
+    "luaPower": 67939,
+    "rewardUst": 462.733294,
+    "rewardLuart": 4277.227722
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1e3r0eezgjsfkk0pwlyhr4rlaz5n8yfp8qpnqgp",
+    "luaPower": 66600.21060538343,
+    "rewardUst": 453.614785,
+    "rewardLuart": 4217.821782
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1k7z26c2k8j60dlx95pv0yaaxw438ve0rzpj9qs",
+    "luaPower": 64759.47302349271,
+    "rewardUst": 441.0775,
+    "rewardLuart": 4158.415841
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1jkg4vjkmwccuve38dr7y5ysjhhy2lyt8nj7emw",
+    "luaPower": 63956.6,
+    "rewardUst": 435.609123,
+    "rewardLuart": 4099.0099
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1k9qr98aepp80eplhmpxt7y707ha5jwt2nndpfx",
+    "luaPower": 63878.19409927292,
+    "rewardUst": 435.075099,
+    "rewardLuart": 4039.60396
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra16xf36qtjp6cppuwts0ecy4stkdhuw7cn3tqpuw",
+    "luaPower": 63604.05,
+    "rewardUst": 433.207901,
+    "rewardLuart": 3980.198019
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1d3xremqe0pqpg8295pk9w0nql7l54ttnf4jsc2",
+    "luaPower": 62761.32502904764,
+    "rewardUst": 427.468092,
+    "rewardLuart": 3920.792079
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra10ea6pt2tsqznrplvq0vlztz8zyj3q0wnr0mlrz",
+    "luaPower": 61492.16,
+    "rewardUst": 418.823794,
+    "rewardLuart": 3861.386138
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1frsd6nayz25encp6w6m8z00g5ue4j6fp4q0pza",
+    "luaPower": 60992.2,
+    "rewardUst": 415.418561,
+    "rewardLuart": 3801.980198
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1uk6mvnl3lj43kryh7z5zmexzjwzheyhtlrwy3d",
+    "luaPower": 59993.307375595075,
+    "rewardUst": 408.615092,
+    "rewardLuart": 3742.574257
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1pgv8ajc2nq4h2pklx02fx86lup7vrjup2xzn8q",
+    "luaPower": 58178.652430205635,
+    "rewardUst": 396.255457,
+    "rewardLuart": 3683.168316
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra10x46e9yzgck4q9hge0k9eqm3vjpd6vgemyrqmx",
+    "luaPower": 58175.65,
+    "rewardUst": 396.235007,
+    "rewardLuart": 3623.762376
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1jm5aqkyys2ke92em7r44yuq0hha2n3aeytjc84",
+    "luaPower": 57018.00299833797,
+    "rewardUst": 388.350261,
+    "rewardLuart": 3564.356435
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra193nxt62n5lye8q9mm3jlmz4327qhg3pvrg9ml5",
+    "luaPower": 56429.1,
+    "rewardUst": 384.339236,
+    "rewardLuart": 3504.950495
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1hrut4tt4z8z96h2mn4j76q9l4354cv0dakrx6l",
+    "luaPower": 55474.399875,
+    "rewardUst": 377.836762,
+    "rewardLuart": 3445.544554
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1gq8ztsn6mhyx0pswt7tpruyltdulw86mpk89xe",
+    "luaPower": 55252.43559243635,
+    "rewardUst": 376.324961,
+    "rewardLuart": 3386.138613
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra18z6x4zntjyyuxefqcnxcgrwh4penx8zlxqxxjv",
+    "luaPower": 54719.85,
+    "rewardUst": 372.697515,
+    "rewardLuart": 3326.732673
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1nap4h4wz86cens8lvnu2kr2lrd463thgjffjl4",
+    "luaPower": 53909.39995,
+    "rewardUst": 367.17753,
+    "rewardLuart": 3267.326732
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1tnw7h6whkg40dq8tyvv49k3crfegzure03kfe8",
+    "luaPower": 50595.31440918951,
+    "rewardUst": 344.605256,
+    "rewardLuart": 3207.920792
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1tflke6j9g70nntv4eyqyc87zdv4jnvvwem56xd",
+    "luaPower": 50570.7,
+    "rewardUst": 344.437607,
+    "rewardLuart": 3148.514851
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1umfgtnkn4ryn7sp6xlhvlgmud4huczrk273df5",
+    "luaPower": 49748.846794225086,
+    "rewardUst": 338.839956,
+    "rewardLuart": 3089.10891
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1dh8wt47rtkq0zdyahxy7dkx424gd8guqty9cmq",
+    "luaPower": 49566.1,
+    "rewardUst": 337.595265,
+    "rewardLuart": 3029.70297
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra142dwn65ennpxgaes3pcfpzxgppdwhk0yfd3kax",
+    "luaPower": 48543.8,
+    "rewardUst": 330.632368,
+    "rewardLuart": 2970.297029
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra135mes30fdp0dhpcvmajqtvqpux2wuexq3zxl5d",
+    "luaPower": 47029.25,
+    "rewardUst": 320.316751,
+    "rewardLuart": 2910.891089
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1n6qjrvw27su7xewe6e0vstk4tvayk3shzp7r00",
+    "luaPower": 46551.767650967406,
+    "rewardUst": 317.064614,
+    "rewardLuart": 2851.485148
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1p30m7n92lcr887pn5cjemrhevkp7wtqauacqrs",
+    "luaPower": 46436.3,
+    "rewardUst": 316.278162,
+    "rewardLuart": 2792.079207
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra14p8ptalsxj248yrt3thcewhsy4kszlu7lavvls",
+    "luaPower": 46041.55,
+    "rewardUst": 313.589515,
+    "rewardLuart": 2732.673267
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1f5ec8sfjz6l9fzkkxp95v74gstg8fnpaagf68z",
+    "luaPower": 45423.93941858868,
+    "rewardUst": 309.382963,
+    "rewardLuart": 2673.267326
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1782m4jgpu0f0wskrk7wh3ww5ec8m8zjtgthy40",
+    "luaPower": 44634.2,
+    "rewardUst": 304.004039,
+    "rewardLuart": 2613.861386
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1svvv88jtkhyqxcmcwyhn6snp4sk9s8c4y63py0",
+    "luaPower": 44482.848937529576,
+    "rewardUst": 302.973185,
+    "rewardLuart": 2554.455445
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1hql6p8j244d30yeuvh9hxzrtqfavljj2gsdgdd",
+    "luaPower": 44253.15,
+    "rewardUst": 301.408703,
+    "rewardLuart": 2495.049504
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1y8s3h4fqejhs63twyd53pmnfaw8lprer9qnf9p",
+    "luaPower": 44078.1,
+    "rewardUst": 300.216435,
+    "rewardLuart": 2435.643564
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1070sh5j4tzz3gupfet4mm5vdjpkyfgwn4g3638",
+    "luaPower": 43921.815335147025,
+    "rewardUst": 299.151979,
+    "rewardLuart": 2376.237623
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra16rhrvl9ajt9mty7cysu76humsdq2ze3j48500f",
+    "luaPower": 43774.09517407859,
+    "rewardUst": 298.145855,
+    "rewardLuart": 2316.831683
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1gf6p2rsr7gay6vyavvvweqg6kxg7ens0yannw6",
+    "luaPower": 43766.6,
+    "rewardUst": 298.094805,
+    "rewardLuart": 2257.425742
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1cm69g5mkg8qqeq96h09zvtdun4vww0lq2h5glx",
+    "luaPower": 43603.99995,
+    "rewardUst": 296.987335,
+    "rewardLuart": 2198.019801
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1fqx2rz2avpcpmluw7vr0parzlvheegqawlga2f",
+    "luaPower": 42777.45,
+    "rewardUst": 291.357694,
+    "rewardLuart": 2138.613861
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1y7hyypnkwuyhcyw6hgh3gddzq3l7275896rldg",
+    "luaPower": 42776.88650144213,
+    "rewardUst": 291.353856,
+    "rewardLuart": 2079.20792
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1xs9levv6annxzp9ezw2sx0nzw2e9t2uj52rmt6",
+    "luaPower": 41513.45,
+    "rewardUst": 282.748575,
+    "rewardLuart": 2019.80198
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1qkwha9ta5x0jsw4gcf5r6l4cujng5dsqzv97lz",
+    "luaPower": 40684.613268379326,
+    "rewardUst": 277.103359,
+    "rewardLuart": 1960.396039
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1jxcun3596e34cpw7dwjveewcee0e63xguzm86l",
+    "luaPower": 38885.55,
+    "rewardUst": 264.849919,
+    "rewardLuart": 1900.990099
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1cm0yaqlv8vexkhmn5dwmshfuzvnu7lnuz0m7e5",
+    "luaPower": 38668.014539398115,
+    "rewardUst": 263.368282,
+    "rewardLuart": 1841.584158
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1720smve7mprkvvh0txs5wpmmsw3d05v78mavju",
+    "luaPower": 37818.39995,
+    "rewardUst": 257.581548,
+    "rewardLuart": 1782.178217
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1eg3pzhswz34n95np20czr26ncqa93vtp2dl3d2",
+    "luaPower": 37742.97902473426,
+    "rewardUst": 257.067855,
+    "rewardLuart": 1722.772277
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1e9ghexxssqkpxuaplqytkyd75g4xvnf2xha7wz",
+    "luaPower": 37164.11381271743,
+    "rewardUst": 253.125198,
+    "rewardLuart": 1663.366336
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1qszf9z7sdzvnp57akl7yj30l4hupky32l5vpxx",
+    "luaPower": 36786.9,
+    "rewardUst": 250.55599,
+    "rewardLuart": 1603.960396
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1lvh6pf2e0ltgavsv4n5a3cgfhh63k6ejukvfrp",
+    "luaPower": 36773.97354925474,
+    "rewardUst": 250.467948,
+    "rewardLuart": 1544.554455
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1nu69mly2tt045w22v9sj0ejrarvt9pfkf85ev8",
+    "luaPower": 36772.65651882974,
+    "rewardUst": 250.458977,
+    "rewardLuart": 1485.148514
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra17t4qpdakfprwgkqrntgvjp34qp6hjdy36c6ugk",
+    "luaPower": 36189.75,
+    "rewardUst": 246.488795,
+    "rewardLuart": 1425.742574
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1qjddnyzpc6fwz4mvkmgruwg0h3caa9h2y2xgua",
+    "luaPower": 35997.545348754065,
+    "rewardUst": 245.179687,
+    "rewardLuart": 1366.336633
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1760s0ks77vl6xge4t9z7xm9quetdfq2ngavemt",
+    "luaPower": 35846.16634099323,
+    "rewardUst": 244.148642,
+    "rewardLuart": 1306.930693
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1y248g4caftzarjtcftrkrudtv0lsw99dlc8h5l",
+    "luaPower": 35411.3,
+    "rewardUst": 241.186763,
+    "rewardLuart": 1247.524752
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra10355nemgu8xydzhwsm2ace8h97z3ec30zdhwgc",
+    "luaPower": 35271.395000000004,
+    "rewardUst": 240.233868,
+    "rewardLuart": 1188.118811
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1rwss4u9hl44fc0dclp8rv9xahhzr9qrel6few6",
+    "luaPower": 35254.205664937865,
+    "rewardUst": 240.116792,
+    "rewardLuart": 1128.712871
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1l00jg7f7hmmlt9aw7sgxs57gaa2akr2z6hh7y6",
+    "luaPower": 34695.08690878126,
+    "rewardUst": 236.308627,
+    "rewardLuart": 1069.30693
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra19fdry7n72rx045rtrptkg5nlxacjxfzn5aw2hz",
+    "luaPower": 34525,
+    "rewardUst": 235.150164,
+    "rewardLuart": 1009.90099
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1646q2kj0v67amau3ndsnz2p09h5f0rmnt0z23s",
+    "luaPower": 34322.60990868636,
+    "rewardUst": 233.771682,
+    "rewardLuart": 950.495049
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1v8635czl3zxl0kep366wp7f2ywvnl5uwp3jvft",
+    "luaPower": 34259.56050326887,
+    "rewardUst": 233.342252,
+    "rewardLuart": 891.089108
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1fskd75k4rufc6x0ng4f9eeccx6mthwckuj9pyf",
+    "luaPower": 34080.21296331899,
+    "rewardUst": 232.120714,
+    "rewardLuart": 831.683168
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1hklww23k54tlw24s8c9y262yjv83nz6sy9pa84",
+    "luaPower": 33898.661540749235,
+    "rewardUst": 230.884165,
+    "rewardLuart": 772.277227
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1mvvpnycta35mdh8nt7v2ppuqqvnhrkeqepdvkm",
+    "luaPower": 33540.80362147676,
+    "rewardUst": 228.446791,
+    "rewardLuart": 712.871287
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1a3ze08p20dsg3upuhk3z8kn3mpekf5cj0zj7qc",
+    "luaPower": 33280.75,
+    "rewardUst": 226.675563,
+    "rewardLuart": 653.465346
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1rp3w2cd83cvw7pshtcqk0qrpjz0uce9gn6mnvy",
+    "luaPower": 32456.80591534232,
+    "rewardUst": 221.06367,
+    "rewardLuart": 594.059405
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1d0hlurduhmv74htcpxv7gr6s26hrwcpyejkwf2",
+    "luaPower": 32358.449999999997,
+    "rewardUst": 220.393767,
+    "rewardLuart": 534.653465
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra14jj49ma3lkez8w4f2eqf6epzje7e6ufmnqlcmp",
+    "luaPower": 32265.404045880678,
+    "rewardUst": 219.76003,
+    "rewardLuart": 475.247524
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1t49hpq5gtqam8at6kwaczhhnwelzjl5wzehe4v",
+    "luaPower": 32198.08891286151,
+    "rewardUst": 219.301546,
+    "rewardLuart": 415.841584
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra19ewhz8dq4yzsf9exjuywrwr6m6lg0vza9vyvp5",
+    "luaPower": 32030.3,
+    "rewardUst": 218.158734,
+    "rewardLuart": 356.435643
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1ax556r8qn08us62px63ae2nwzexlt2wd5gx3ad",
+    "luaPower": 31879.399925,
+    "rewardUst": 217.130952,
+    "rewardLuart": 297.029702
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1fsw5jxjukzqt8kl2dnyks8r7m9xqzc2r7w9eex",
+    "luaPower": 31867.868330606925,
+    "rewardUst": 217.05241,
+    "rewardLuart": 237.623762
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1n452rz6ahl2kdrlwf6rhd2f5dldvtnq239q0vl",
+    "luaPower": 31800,
+    "rewardUst": 216.590158,
+    "rewardLuart": 178.217821
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1qwskls93vrdup905upuwm6re8yvwgwa3ly0ufq",
+    "luaPower": 31687.299899999998,
+    "rewardUst": 215.822556,
+    "rewardLuart": 118.811881
+  },
+  {
+    "airdropTxHash": "E70C7F649D362C974E690407A5F6245CD0F541E18885229FA934ADB142BE7864",
+    "address": "terra1qawxqj0v888ffsasjg92rvwnjg2wuyr6kt8kf5",
+    "luaPower": 30535.158362576964,
+    "rewardUst": 207.975307,
+    "rewardLuart": 59.40594
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1tyht6p89vx02rq32vrtgvnqhyuc5ulh3kc23ax",
+    "luaPower": 30448.353807444608,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1tkw2hag5h85qvds6as5g77xr25amt3scm2f2kf",
+    "luaPower": 30400,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1yf9nuvwv7xwhujju6hmedg4kxyfuk527fu7el5",
+    "luaPower": 30331.75,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1qhhvfdaw6xf79xsjw3etk72pdzue0r47vtkz5y",
+    "luaPower": 30192.6,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra19y0qpm35tyku0smplx2f9s7e5kdwug0tym2ta2",
+    "luaPower": 29908.843620559863,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra12tf5cck2rtgzka8p75l5ppzfmnm3tjndv9sejk",
+    "luaPower": 29864.407997925573,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1k9rtac6zhkwjzv4vss0zg7uu7vgh34hr57v0hc",
+    "luaPower": 29628.4,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1akpz8efgy55c8amt6fjkh90m2zenmzmwgywcux",
+    "luaPower": 29333.42284248212,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1qrsfqpsadra6x0hq8dsl25tnnr0usejvqltlku",
+    "luaPower": 29291.55,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1t22sqv3qx5zfwc399d63zg75qra27prn6r0har",
+    "luaPower": 28916.69379058948,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1e7vc3tldqul0kadl97pwwtlukls3ycr5sgscjw",
+    "luaPower": 28869.05057819635,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1fqm7t8dn0vea7kjg0uewu7g68pcpfu5x3rpp84",
+    "luaPower": 28686.4,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1enj5sly30kmn0uxhhaylaavfwmfp68xc3sr7vq",
+    "luaPower": 28653.7,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1mxa64k5dphmt6lctaveld54vwwxxx3l743ugyp",
+    "luaPower": 28642.978635053016,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1vmasttnjag779n7gyf3kzxsqqt7rrmwhk4322x",
+    "luaPower": 28095.749925,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1v6neshayqvp9tp5ys3qjaxtkv69dvvx9c2d0u6",
+    "luaPower": 28033.35,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1rk59g4qctk4pwwhn3wx8wsekghh73gkfwxr4wz",
+    "luaPower": 27791.95,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1jv4sw5ufwhcvvgyqvrarya6v4ytp4k6da0gs22",
+    "luaPower": 27682.195039685837,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra17u4qmckugktcl879sysud5p8dsaaqj9zlvzczt",
+    "luaPower": 27620.65,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra13a6qs85syu5km9twgx4uuf8hgfmscv7gm99kpe",
+    "luaPower": 27389.593780483887,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1llex6wfx49xssnz7z055jmp5p69nnj2uqhv7hs",
+    "luaPower": 27354.634696628607,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1ya9vnvcnqkt6cmauxnzngpjppptt4tct7uyrq2",
+    "luaPower": 27084,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1js9nnufk86huwsyv8e2wcnhfk49eldpy2j66tn",
+    "luaPower": 26904.25,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1rgera6mapzrsd972ahfywud3829rjm6v2xg52m",
+    "luaPower": 26789.05,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra15l8nw0fsj876pq4ysy26uqsvcd2dp0zu8p06hd",
+    "luaPower": 26704.90801539659,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra10kgsmlpf2ts2zwrnfl4nwn4acjcfhjyyfyushr",
+    "luaPower": 26435.5,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1g64q34ftdmgg7efgehqag6rua98jp20ta3f0c8",
+    "luaPower": 26431.95,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra17dn0yywt72vyep8zg0t9flhj8nltfakxajn05s",
+    "luaPower": 26163.7342474577,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra19d60cl46t30sngfuq7sgwxaey9lhs95kqn8dg0",
+    "luaPower": 26132.3,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1p6khvjv574ryp33ks5sg6uqqz4rppmkk3j83r2",
+    "luaPower": 25981.345,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra17lcktn8mxw7felylehkztfyqshd039d2zzgj7n",
+    "luaPower": 25775.649925,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra17s6xwejf0mrft4c4jdk4k2gjdq45p28d897vjz",
+    "luaPower": 25660.203098139802,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1383lw805tfafpwg8e767z7td4nzfs83t6gmlar",
+    "luaPower": 25584.967500000002,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1rpw0q0dgcfr0mgefca23uwjrcez9287qxsaqlc",
+    "luaPower": 25201.35,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra18ekf5tgj4vc58cg3s2kq28tdlre0vnndqk8m0z",
+    "luaPower": 25081.39995,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1ex5keqe8tl6czslzve2fymwy9u2kyq0wputg0r",
+    "luaPower": 24963.51474587988,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1udfycjpg580kwj8kn42zdm0k0f72dq66q59fp2",
+    "luaPower": 24888.86457581627,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1vx7yykmxqwprkkawj20sjrfjttrfzwdhpjwl7v",
+    "luaPower": 24684.9,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1nvc7jm0ehzqujxrvuqxlweygyxpg0x3wyahnzm",
+    "luaPower": 24651.75,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1yfp8xaw0ett3xglm9h6nh4q8wagdlm6cxr2g4x",
+    "luaPower": 24558.049925,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1yv9rvp2f2kfsymmtcmpwnfv2y5htg0ne49azx4",
+    "luaPower": 24324.65,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1mw4n5aduvg9wux0m4agy90m3h6m0drwzgdud2a",
+    "luaPower": 24313.65,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1spafls8tk0xhvtekpnxpn32xfyf3mjp8s7h296",
+    "luaPower": 24186.05,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1pwm92g03xsgu20p5cl20ny7u778zfwdsyp3d0z",
+    "luaPower": 24116.53295645462,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1nc5axyuymrgdgtqmqq8dx23y0g3fuk99s0t786",
+    "luaPower": 24058.75065802448,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra16thwtp429caunclnx8nr7kgfxpl9fq633vpsc6",
+    "luaPower": 24038.745000000003,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1u77023le5ngmfh0g03dulyjcegpyplqh80pp35",
+    "luaPower": 24002.250770663857,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1n6zqhh54qref76fgc6scgagvfkprr4mjqntzlx",
+    "luaPower": 23961.85,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1788ylehvuaeeftr7vcvqnjh7yd37y7pxhmlwju",
+    "luaPower": 23886,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1qcwng4gegv6j25cvxq6qecwujk0anm96mn025z",
+    "luaPower": 23719.85,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra10d64rrfr7rj7f3punrhcm8svf3fnsc9sqc9fac",
+    "luaPower": 23715.2,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1urc2v7xmuak7jml5cfmvpjhe0cr2s4933u926m",
+    "luaPower": 23634.2,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra16g0nqlrvdgjgm7xnyvcxk8hqsay5pwq0hsaa8q",
+    "luaPower": 23301,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1thl0spe7e5qle9scsm7nmh7hkmmccc2kxmtyut",
+    "luaPower": 22865.65,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra187ksqherl657qqym3vre3ftm3lr8vfzcz8c70s",
+    "luaPower": 22836.56656848718,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra187zk78lq8t2ga448l8l99dmu4ykp3ylfffdshh",
+    "luaPower": 22753.5,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1f2l0662hgrxkztlpmjvtaye9tnkwgq66yuwq0p",
+    "luaPower": 22445.402500529017,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra15ec06sc2zykmh7a23ezql6fvdlf75fxgh8yefd",
+    "luaPower": 22416.5499,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra18fmktrl4ccq3c6uw5m7lyxe0mf9mt2ruenrkvz",
+    "luaPower": 22245.65,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1e0fkfwc0khl95pd8y9x92a9eyzxsvcsukvkrrq",
+    "luaPower": 22225.382371149877,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1enckz835pjm02r53vfk6efm00wuva56z6dh092",
+    "luaPower": 21708.390746548022,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1rh0njsd9m87425d8nz7wnux29clh67lj2w5edh",
+    "luaPower": 21666.6,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1e0w9ukh3d70xz7affn5hp2ua77nsz0uffh3la4",
+    "luaPower": 21501.5,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra17gzlqjkhndn7qmdl9mu4nstsug90ad6qeedk2e",
+    "luaPower": 21389.5,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1m6x8ydl7madx7jtgs3hq4h5u6e7d7fuuadytz8",
+    "luaPower": 21347.7,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1q6he9lxa9yl6dznv9ypgv720rlx6ye3vcvwsv2",
+    "luaPower": 21163.169005169595,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1ttla85uj3mr7nx594jhtkhhtwa8ecmcwkyhnfa",
+    "luaPower": 21022.95,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra16w2rl2zcp6pf5azksplgpj5e0cc4ua8pnad85g",
+    "luaPower": 20948.35,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1ppejk2vl74jjnftq97vd6k80jq3g7y2rp739yy",
+    "luaPower": 20906.00523738119,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra12ql9r2ljf7pdkwscsud2wrf8lz9wss7ym0aesq",
+    "luaPower": 20859.65,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1ypmhgqdruj5ny89y27ax74xaygu0p8vae94mx6",
+    "luaPower": 20495.65,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra16n3hn7r2ucy8e80u6wxtmhjll6hmeh8xgfg76y",
+    "luaPower": 20444.6,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1xhp9yarygd5lrraq99ctcle3cp3haama7jkjd5",
+    "luaPower": 20431.05,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1d8ke6avwyjzwkrpj6wa9rjl7af37c4n759zxte",
+    "luaPower": 20405.198583791214,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1qf3pczdqxjfxlp0p68zcnvcddumwf488dlhkqu",
+    "luaPower": 20382.720699559108,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1mvcfp2c73jezlclk874e5eeudkztzsr82kduec",
+    "luaPower": 20349.076890930737,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1z0txjp3a65j5smhrk5qzf5d8xtmynwsc8n3nh7",
+    "luaPower": 20164.1,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1323szyg2ve0d7ttw0c6scvfjzhxyjd0gm4h2za",
+    "luaPower": 20141.004348507744,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1pz4jfmp480fjswtmzmrlkv75z0jxypagsyw679",
+    "luaPower": 19759,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1qzpww3mw0t9aep0x6ksf7nfsvhk3tjy7xt65g7",
+    "luaPower": 19740.734432279423,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1fvfyv3gqnzzpyaqm6zqqkkwuzjxr37rlt5v0gq",
+    "luaPower": 19612.5,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1nz5njfv8wkf2fcgdac2xwacd8xnmp7pzcafw3q",
+    "luaPower": 19588.5,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra19cd4mk2ytpvuk42y7sq75mwl9prvtg06ex0069",
+    "luaPower": 19569,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra16lufdwefaarckeupsvajy3kv5888ewkfdtrjaj",
+    "luaPower": 19535.75,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1nnnjas05tszdnkk2acrm9ts442gawdqy9c85d3",
+    "luaPower": 19500.55,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1ule9kxqppq5jzwa0wptakhxlkhrg4k2e76r0rd",
+    "luaPower": 19430.9,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1w8uj6tzgvqnql4kz4vvkgzpzrkpcxekh94p2px",
+    "luaPower": 19370.7,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1namql4yhz73q2ques0xgsmdqqq47jsrvuf4sdv",
+    "luaPower": 19363.84,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1ufkc42mzhlmxjqvj3fknxyf5jynaqnxd7fjgjc",
+    "luaPower": 19299.198520927424,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra15pktcsks8r867jpmpp747vc74633wwcdkvkmzg",
+    "luaPower": 19197.787680346406,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1fp53knq8ukaajl2l6z87hkzjcsy4uj7qvdy0ng",
+    "luaPower": 18965.9,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1tvv9ctty9r86vfvm5c8q25lvl869h7gq4jzh3d",
+    "luaPower": 18900,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1ke2epdm0yktdgfm2lw37k4cy7gfq8xr4d9pzm9",
+    "luaPower": 18664.5,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1eqnm2cnnzxxg4m0tkey4rddyxyzqsy0ntqp2nh",
+    "luaPower": 18622.499949999998,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1kezcarz3a52v3wlu6mquhfsgsve47glu3mae5n",
+    "luaPower": 18577.85,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1z0kfulcn6q2qyp3hp7dzjy9u4dhmm0e3v02rxv",
+    "luaPower": 18497.793036656767,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra163973sx9z3j2dwywjgmxy06980cqfhlmckj90d",
+    "luaPower": 18475.995,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1m792pv28r2sd9767g9m2aj8qvgkj7dyy3n4fcw",
+    "luaPower": 18383.327315442875,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1x2v7yc9zja6v2d4dcsxaj2mafr6rrzxqtufenh",
+    "luaPower": 18298.448589929038,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  },
+  {
+    "airdropTxHash": "221091DEABECF7944E6AED02DD43AF5B59A706F53627E685684D13AD5A218735",
+    "address": "terra1um5scnvnka7w8nxrknqvtvt38etfrkx9f2g3t5",
+    "luaPower": 18204.45,
+    "rewardUst": 200,
+    "rewardLuart": 0
+  }
+]
