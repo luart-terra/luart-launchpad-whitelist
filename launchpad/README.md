@@ -1,4 +1,4 @@
-# LUART Launchpad WhiteList
+# LUART Launchpad Whiteist
 
 Here is a list of published whitelists for [LUART Launchpad](https://launchpad.luart.io/) projects launches
 
